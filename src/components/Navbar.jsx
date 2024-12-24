@@ -96,7 +96,7 @@ const Navbar = () => {
           <li>
             <Link
               className="text-[14px] font-sans text-slate-200 md:text-[#76767676] transition-all duration-300 font-bold hover:text-black p-3 md:p-0"
-              to={"/journal"}
+              to={"/cart"}
             >
               Journal
             </Link>
